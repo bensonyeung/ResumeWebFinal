@@ -1,0 +1,49 @@
+theme = "awesome-identity"
+baseURL = ""
+title = "BeYoung ✌️"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/pic.jpg"
+  firstname = "Benson"
+  lastname = "Yeung"
+  title = "Student at UofT / Data Analyst"
+  bio = """"You can have data without information, but you cannot have information without data."
+
+  -Daniel Keys Moran
+
+  I like to eat duh rice
+  """
+
+[params.contacts]
+  email = "bensonyeung013@gmail.com"
+  instagram = "bennsoonnn"
+  linkedin = "BeYeung"
+
+
+[[params.actions]]
+  name = "Review My Resume"
+  url = "https://drive.google.com/file/d/1sov8ovojdgYbrch3Fdw_86rK1Nq7Nt0l/view"
+
+[[params.actions]]
+  name = "My Inspiration"
+  url = "https://www.reddit.com/r/dataisbeautiful/"
+
+[params.crisp]
+  websiteId = "61b03db4-8c2c-433c-99bd-e839d4e41b25"
+    # Change the chatbox color theme
+  color = "blue"
+    # Reverse the chatbox position
+  reversePosition = false
+    # Hide chatbox on mobile devices
+  hideOnMobile = false
+    # Hide chatbox on support away
+  hideOnAway = false
+    # Hide chatbox on vacation
+  hideVacation = false
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 Benson Yeung. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
