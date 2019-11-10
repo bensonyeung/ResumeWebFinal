@@ -13,13 +13,13 @@ title = "BeYoung ✌️"
 
   -Daniel K. Moran
 
-  i like to eat duh rice
+  i like to eat duh rice and the stuff
   """
 
 [params.contacts]
   email = "bensonyeung013@gmail.com"
   instagram = "bennsoonnn"
-  linkedin = ""
+  linkedin = "" #BeYeung
 
 
 [[params.actions]]
