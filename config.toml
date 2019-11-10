@@ -9,11 +9,14 @@ title = "BeYoung ✌️"
   firstname = "Benson"
   lastname = "Yeung"
   title = "Aspiring Data Analyst @ UofT"
-  bio = """"You can have data without information, but you cannot have information without data."
+  bio = """
+  20 Year old Canadian-born Chinese currently studying Statistics, Computer Science and GIS at the University of Toronto.
 
-  -Daniel K. Moran
+  Naturally competitive, with 7+ Years in the Esports scene for Overwatch and Team Fortress 2.
 
-  i like to eat duh rice and the stuff
+  Data Scientist Enthusiast; loves over analyzing everything, a little too much sometimes...
+
+  Interested in using data to extend a helping hand to people in need, and make them feel young and free again ✌️
   """
 
 [params.contacts]
