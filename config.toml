@@ -5,7 +5,7 @@ title = "BeYoung ✌️"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/pic.jpg"
+  portrait = "/images/pic1.jpg"
   firstname = "Benson"
   lastname = "Yeung"
   title = "Aspiring Data Analyst @ UofT"
@@ -22,12 +22,12 @@ title = "BeYoung ✌️"
 [params.contacts]
   email = "bensonyeung013@gmail.com"
   instagram = "bennsoonnn"
-  linkedin = "" #BeYeung
+  linkedin = "https://www.linkedin.com/in/beyeung/"
 
 
 [[params.actions]]
   name = "Review My Resume"
-  url = "https://drive.google.com/file/d/1sov8ovojdgYbrch3Fdw_86rK1Nq7Nt0l/view"
+  url = "https://drive.google.com/file/d/1OGJ4fcRoCIlAeAwtWaWJJJxzHkwUN8RT/view?usp=sharing"
 
 [[params.actions]]
   name = "My Inspiration"
